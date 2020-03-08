@@ -1,0 +1,6 @@
+build/
+mt_random_type.c
+*.so
+*.swp
+*.pyc
+
