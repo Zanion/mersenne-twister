@@ -3,4 +3,4 @@ all:
 
 
 clean:
-	rm -r build mt_random_type.c mt_random_type*.so
+	rm -r build src/mersenne_random/mt_random_type.c mt_random_type*.so

@@ -1,4 +1,5 @@
-cimport mt_struct
+cimport lib.mt_struct as mt_struct
+
 
 cdef class MT:
     """ MT Wrapper """

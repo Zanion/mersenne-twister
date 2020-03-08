@@ -1,6 +1,6 @@
 build/
-mt_random_type.c
-*.so
-*.swp
-*.pyc
+src/mersenne_random/mt_random_type.c
+**/*.so
+**/*.swp
+**/*.pyc
 
